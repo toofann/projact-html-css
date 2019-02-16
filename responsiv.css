@@ -1,0 +1,352 @@
+@media screen and (max-width: 1300px)
+{
+	.main
+	{
+		height: auto;
+	}
+}
+@media screen and (max-width: 1290px)
+{
+	.main6cover div
+	{
+		margin-left: 0px;
+	}
+	
+}
+@media screen and (max-width: 1173px)
+{
+	.main6covere
+	{
+		border-left: none !important;
+	}
+	.main2img , .main3img
+	{
+		margin-top: -17%;
+	}
+	.imgdarabi
+	{
+		width: 20px;
+		height: 30px;
+	}
+}
+@media screen and (max-width: 1053px)
+{
+	.main2img ,.main3img
+	{
+		display: none;
+	}
+	.main2 ,.main3
+	{
+		margin: 0 auto;
+		text-align: center;
+	}
+	.sb1 ,.sb2 ,.sb3 ,.sb4 ,.sb5 ,.s1 ,.s2 ,.s3 ,.s4 ,.s5 ,.webd ,.ideb
+	{
+		margin: 0 auto;
+	}
+	.s1 , .sb1
+	{
+		padding-top: 2%;
+	}
+	.main6divimg img
+	{
+		width: 150px;
+		height: 150px;
+	}
+	.main8b span
+	{
+		margin-left: 0px;
+	}
+	.main8b input , .main8b button
+	{
+		float: right;
+	}
+	.main8b
+	{
+		width: 45%;
+		text-align: center;
+		margin-left: 20%;
+	}
+}
+@media screen and (max-width: 935px)
+{
+	.main7cart ,.main7cart2 ,.main7cart3
+	{
+		width: 200px;
+		height: 300px;
+	}
+	.main7cart a img ,.main7cart2 a img ,.main7cart3 a img
+	{
+		width: 30px;
+		height: 30px;
+	}
+	.main7img1 ,.main7img2 ,.main7img3
+	{
+		width: 150px !important;
+		height: 150px!important;
+	}
+	.card ,.card2 , .card3
+	{
+		width: 150px;
+		height: 300px;
+	}
+	.card h2 ,.card2 h2 , .card3 h2
+	{
+		margin: 0px;
+	}
+	.card p ,.card2 p , .card3 p
+	{
+		margin: 8px 0px;
+	}
+	.pcon
+	{
+		margin: 0px !important;
+	}
+	.pcon button
+	{
+		padding: 0px 8px 2px 8px;
+	}
+	.main8b input ,.main8b button
+	{
+		width: 200px;
+	}
+}
+@media screen and (max-width: 853px)
+{
+	.main6covere1
+	{
+		border-left: none !important;
+	}
+		.main6covere
+	{
+		border-left: 2px solid black !important;
+	}
+	.Learn a
+	{
+		border: 1px solid white;
+	}
+	.main2img img
+	{
+		width: 70%;
+		height: 70%;
+	}
+	.main7cart ,.main7cart2 ,.main7cart3
+	{
+		margin: 10px 0px; 
+	}
+}
+@media screen and (max-width: 785px)
+{
+	.card ,.card2 , .card3
+	{
+		margin: 20px 20px;
+	}
+}
+	@media screen and (max-width: 750px)
+{
+		.main6divimg img
+	{
+		margin: 20px 20px;
+	}
+}
+@media screen and (max-width: 685px)
+{
+	.header
+	{
+		height: 500px;
+	}
+	.main8b
+	{
+		margin-left: 15%;
+	}
+	.main8b input , .main8b button
+	{
+		width: 150px;
+	}
+	.imgdarabi ,.darabi
+	{
+		display: none;
+	}
+	.canyou
+	{
+		margin-top: 200px;
+		font-size: 25px;
+	}
+	.yop
+	{
+		margin-top: 240px;
+		font-size: 42px;
+	}
+	.Learn
+	{
+		margin-top:340px;
+	}
+	.Learn a:hover
+	{
+		font-size: 22px;
+		border: px solid white;
+		border-radius: 4px;
+		padding: 10px 15px 10px 15px;
+	}
+	.menubar ul
+	{
+		text-align: center;
+		margin-top: 30px;
+		padding-left: 0px;
+	}
+	.menubar li a:hover
+	{
+		padding: 0px;
+		border: none;
+	}
+	.main8a a:hover
+	{
+		margin-left: -160px;
+	}
+}
+@media screen and (max-width: 590px)
+{
+	.main8b
+	{
+		margin-left: 30%;
+	}
+	.proin , .proin2
+	{
+		text-align: center;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.proin p ,.proin2 p
+	{
+		padding-right: 20px;
+		padding-left: 20px;
+	}
+}
+@media screen and (max-width: 554px)
+{
+	.main6cover div
+	{
+		border-left: none !important;
+		border-bottom: 2px solid black;
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
+	.main6covere
+	{
+		border-bottom: none !important;
+	}
+	.main6divimg img
+	{
+		margin: 5px 5px;
+	}
+		.main2img img
+	{
+		width: 50%;
+		height: 50%;
+	}
+		.main2img , .main3img
+	{
+		margin-top: -15%;
+	}
+		.main8 input , .main8s5 button
+	{
+		width: 90px;
+	}
+	.main8b p
+	{
+		font-size: 15px;
+	}
+}
+@media screen and (max-width: 504px)
+{
+	.main6s1 ,.main6s2
+	{
+		display: block;
+	}
+	.canyou
+	{
+		font-size: 20px;
+	}
+	.yop
+	{
+		font-size: 35px;
+	}
+	.Learn a
+	{
+		font-size: 15px;
+	}
+	.Learn a:hover
+	{
+		font-size: 15px;
+	}
+	.menubar
+	{
+		display: none;
+	}
+	#select
+	{
+		display: inline;
+	}
+	.darabi
+	{
+		display: inline-block;
+		margin-top: -30px;
+		margin-left: 40px;
+	}
+	.imgdarabi
+	{
+		display: inline-block;
+		margin-top: -30px;
+		margin-left: 15px;
+	}
+	.canyou
+	{
+		margin-top: 100px;
+	}
+	.yop
+	{
+		margin-top: 130px;
+	}
+	.Learn
+	{
+		margin-top: 200px;
+	}
+	.header
+	{
+		height: 420px;
+	}
+}
+@media screen and (max-width: 420px)
+{
+	.main8b
+	{
+		margin-left: 20px;
+		width: 70%;
+	}
+	.main8b input , .main8 button
+	{
+		width: 45%;
+	}
+}
+@media screen and (max-width: 390px)
+{
+	.Learn
+	{
+		margin-top: 270px;
+	}
+}
+@media screen and (max-width: 340px)
+{
+	.yop
+	{
+	margin-top: 150px;
+	}
+}
+	@media screen and (max-width: 320px)
+{
+	.web2
+	{
+		font-size: 45px !important;
+	}
+
+}
